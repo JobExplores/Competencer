@@ -15,7 +15,7 @@
     "publicDate": "YYYYmmDDhhMMss",
     "description": "lorem ipsum",
     "workExp": 6,
-    "wage": {
+    "salary": {
       "min": 50000,
       "max": 100000
     },
